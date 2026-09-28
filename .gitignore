@@ -1,0 +1,8 @@
+target/
+__pycache__/
+*.py[oc]
+.idea/
+.venv/
+.base-ast*/
+dist/
+*.egg-info
